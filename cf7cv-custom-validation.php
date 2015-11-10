@@ -4,7 +4,7 @@ Plugin Name: CONTACT FORM7 CUSTOM VALIDATION
 Plugin URI: http://example.com
 Description: Easily select a CSS "Ready Class" for your fields within Gravity Forms
 Version: 1.0
-Author: Aiyaz Khorajia	
+Author: Mahesh Patel	
 Author URI: http://example.com
 License: GPL2
 */
